@@ -1,0 +1,3 @@
+[submodule "t0547bsshlib"]
+	path = t0547bsshlib
+	url = git@github.com:tomioya/t0547bssh.git
